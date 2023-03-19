@@ -1,0 +1,51 @@
+div{
+    border: solid black thin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.polje  
+{
+    width: 25%;
+    height: 250px;
+    margin: 10px;
+    /* border: solid black thin; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:80px;
+    color: white;
+
+}
+
+.tabela
+{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    
+}
+h1
+{
+    float: right;
+}
+
+.rezultat
+{
+    /* width: 10%; */
+    font-size: 25px;
+    display: flex;
+    justify-content: left;
+    font-weight: bold;
+    /* height: 20px; */
+}
+.rez{
+    font-size: 30px;
+    width: 89%;
+    display: flex;
+    justify-content: center;
+    justify-content: left;
+    margin-left: 1px;
+}
